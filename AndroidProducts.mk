@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/exthm_vince.mk
+    $(LOCAL_DIR)/xtended_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    exthm_vince-user \
-    exthm_vince-userdebug \
-    exthm_vince-eng
+    xtended_vince-user \
+    xtended_vince-userdebug \
+    xtended_vince-eng
