@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_vince.mk
+    $(LOCAL_DIR)/wave_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_vince-user \
-    xtended_vince-userdebug \
-    xtended_vince-eng
+    wave_vince-user \
+    wave_vince-userdebug \
+    wave_vince-eng
